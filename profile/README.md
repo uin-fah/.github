@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--
+## Fakultas Adab dan Humaniora
 
 **Here are some ideas to get you started:**
 

@@ -1,10 +1,11 @@
-## Fakultas Adab dan Humaniora
+# Fakultas Adab dan Humaniora
 
-### Program Study Git Repository
+
+## Git Repository
+#### Program Study 
 
 - [Prodi Sastra Ingris](https://github.com/uin-si)
 - [Prodi Tarjamah](https://github.com/uin-tar)
 
-
-### Sub Ordinate Git Repository
+#### Sub Ordinate
 - [Unit Riset Teknologi Infomasi](https://github.com/fahdevit)

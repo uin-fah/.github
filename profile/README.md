@@ -5,7 +5,7 @@
 
 # Report 
 ### Pengembangan Website Ilmu Perpustakaan ( migrasi dari worpdress ke static site berbasis jamstack )
-[milestone]()
+[milestone](https://github.com/uin-ipi/uin-ipi.github.io/milestones)
 
 
 ## Berkenal Dengan Markdown

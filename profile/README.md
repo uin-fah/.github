@@ -5,7 +5,7 @@
 
 # Report
 | Project  | Milestone | Report |  
-| ------------- | ------------- |  
+| ------------- | ------------- | ------- |
 |  Pengembangan Website Ilmu Perpustakaan ( migrasi dari worpdress ke static site berbasis jamstack )  | [milestone](https://github.com/uin-ipi/uin-ipi.github.io/milestones)  | [detail](https://github.com/orgs/uin-ipi/projects/6) |
 
 

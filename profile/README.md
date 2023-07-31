@@ -11,7 +11,7 @@
 
 # Guides
 #### 1. Markdown   
-Dalam berinteraksi di github, markdown menjadi format yang perlu diketahui. Berikut ini adalah dokumentasi cara menulis pada format markdown yang di dukung oleh github,
+Dalam berinteraksi di github, markdown menjadi format yang perlu dikuasai. Berikut ini adalah dokumentasi cara menulis pada format markdown yang di dukung oleh github,
 [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 
